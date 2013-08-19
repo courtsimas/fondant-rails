@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["phillip@ovenbits.com"]
   gem.description   = %q{Use fondant in Rails' asset pipeline}
   gem.summary       = gem.description
-  gem.homepage      = "https://github.com/ovenbits-ingredients/fondant-rails"
+  gem.homepage      = "https://github.com/courtsimas/fondant-rails"
 
   gem.add_dependency 'railties', '>= 3.1'
 

@@ -1,6 +1,6 @@
 # Fondant for Rails' Asset Pipeline
 
-Use [fondant](https://github.com/ovenbits-ingredients/fondant) in Rails' asset pipeline.
+Use [fondant](https://github.com/courtsimas/fondant) in Rails' asset pipeline.
 
 ## Installation
 
